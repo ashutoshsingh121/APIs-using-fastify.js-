@@ -1,0 +1,10 @@
+[
+  {
+    "urlname":"g",
+    "redirect":"https://google.com"
+  },
+  {
+    "urlname":"l",
+    "redirect":"https://linkedin.com"
+  }
+]
